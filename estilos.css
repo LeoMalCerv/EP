@@ -1,0 +1,264 @@
+@charset "utf-8";
+.Penc1 {
+	text-align: center;
+	color: #FFFFFF;
+}
+.Pnom {
+	color: #F90;
+	font-size: 24px;
+}
+.Pframe {
+	background-color: #00F;
+	position: absolute;
+	left: 161px;
+	top: 330px;
+	width: 820px;
+	height: 439px;
+}
+.Henc1 {
+	color: #F30;
+	text-align: center;
+
+}
+.Fh1F {
+	font-family: "Courier New", Courier, monospace;
+	color: #660000;
+}
+
+.HcolorP {
+	color: #FF6633;
+}
+.HcolorB {
+	color: #FFF;
+}
+.HcolorH {
+	color: #03F;
+}
+.Hp1 {
+	text-align: justify;
+	color: #6FF;
+	font-family: "Courier New", Courier, monospace;
+}
+.Henc2 {
+	text-align: center;
+	color: #FC0;
+	font-size: 24px;
+}
+.Hp2 {
+	color: #D6D6D6;
+	text-align: justify;
+}
+.Hp3 {
+	text-align: justify;
+	color: #339;
+}
+.Hp4 {
+	text-align: justify;
+	color: #FCF;
+}
+.Hp5 {
+	text-align: justify;
+	color: #FF9;
+	font-family: "Comic Sans MS", cursive;
+}
+.Aenc1 {
+	text-align: center;
+	color: #FFF;
+}
+.Ap1 {
+	text-align: justify;
+	color: #FF9;
+	font-size: 18px;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+.Aenc2 {
+	text-align: center;
+	color: #CF6;
+}
+.Aenc3 {
+	color: #3FF;
+	font-size: 24px;
+	text-align: center;
+}
+.Ap2 {
+	text-align: justify;
+	color: #FCF;
+	font-size: 14px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.Ap3 {
+	text-align: justify;
+	color: #CCF;
+	font-size: 12px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.Ap4 {
+	text-align: justify;
+	color: #3FC;
+}
+#Kenc1 {
+	text-align: center;
+	color: #936;
+}
+#Kp1 {
+	text-align: justify;
+	color: #CFF;
+	font-family: "Comic Sans MS", cursive;
+}
+#Kenc2 {
+	text-align: center;
+	color: #F00;
+	font-size: 24px;
+}
+.Uenc1 {
+	text-align: center;
+	color: #6FF;
+}
+.Up1 {
+	text-align: justify;
+	color: #6F6;
+	font-size: 18px;
+	font-family: "Comic Sans MS", cursive;
+}
+#Uenc2 {
+	text-align: center;
+	font-size: 24px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FF0;
+}
+.Up2 {
+	text-align: justify;
+	color: #9FC;
+}
+.Up3 {
+	text-align: justify;
+	color: #9F3;
+}
+.Tenc1 {
+	color: #3CF;
+}
+.Tp {
+	color: #F90;
+}
+.Thol {
+	color: #03F;
+}
+.Tbaj {
+	color: #FFF;
+}
+.enc35 {
+	color: #9FF;
+	text-align: center;
+}
+#apDiv5 {
+	position: absolute;
+	width: 87px;
+	height: 17px;
+	z-index: 1;
+	font-size: 9px;
+	color: #603;
+	left: 12px;
+	top: 15px;
+}
+.Eind {
+	text-align: center;
+}
+.Elista {
+	font-style: italic;
+	color: #930;
+}
+.Elista h2 {
+	text-align: left;
+	color: #009;
+}
+.Eaku {
+	font-size: 24px;
+}
+.Eluga {
+	color: #FF0;
+}
+#apDiv1 {
+	position: absolute;
+	width: 120px;
+	height: 69px;
+	z-index: 1;
+	left: 896px;
+	top: 102px;
+	visibility: hidden;
+}
+.apdiv10 {
+	position: absolute;
+	left: 800px;
+	top: 49px;
+}
+
+.apdiv3 {
+	position: absolute;
+	left: 1000px;
+	top: 49px;
+}
+.apdiv8 {
+	position: absolute;
+	left: 460px;
+	top: 49px;
+}
+.apdiv9 {
+	position: absolute;
+	left: 635px;
+	top: 49px;
+}
+
+
+.apdiv7 {
+	position: absolute;
+	left: 453px;
+	top: 0px;
+}
+
+
+.apdiv6 {
+	position: absolute;
+	left: 129px;
+	top: 49px;
+}
+
+.apdiv4 {
+	position: absolute;
+	left: 7px;
+	top: 49px;
+}
+
+
+.Eformu {
+	text-align: center;
+	color: #333;
+	font-family: "Comic Sans MS", cursive;
+	font-style: italic;
+}
+.nombre {
+	font-size: 24px;
+	color: #FFF;
+}
+.apellido {
+	font-size: 24px;
+	color: #FFF;
+}
+.pregunta1 {
+	color: #FFF;
+	font-size: 24px;
+}
+.cual {
+	color: #FFF;
+}
+.opcion1 {
+	color: #FFF;
+}
+.opcion2 {
+	color: #FFF;
+}
+.opcion3 {
+	color: #FFF;
+}
+.alguna {
+	color: #FFF;
+}
